@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React.js**
 
-- 📫 How to reach me **You can reach me through Linkedin**
+- 📫 How to reach me? **You can reach me through Linkedin**
 
 
 <h3 align="left">Languages and Tools:</h3>
