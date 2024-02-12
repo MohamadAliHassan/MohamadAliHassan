@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **You can reach me through Linkedin**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
