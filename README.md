@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
+<h1 align="center">Welcome to my Github profile. My name is Mohamad Ali👋</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadalihassan" alt="mohamadalihassan" /></a> </p>
@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **You can reach me through Linkedin**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
