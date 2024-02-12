@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to my Github profile. My name is Mohamad Ali👋</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadalihassan" alt="mohamadalihassan" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and React native**
 
 - 💬 Ask me about **React.js**
