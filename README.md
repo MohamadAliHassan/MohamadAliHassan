@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github profile. My name is Mohamad Ali👋</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **AWS cloud development.**
+- 🌱 I’m currently learning **Next.js.**
 
 - 💬 Ask me about **Frontend development**
 
