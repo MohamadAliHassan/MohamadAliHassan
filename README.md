@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github profile. My name is Mohamad Ali👋</h1>
-<h3 align="center">A passionate Web developer with goals of aiming to fullstack</h3>
+<h3 align="center">A passionate Web developer with goals of aiming to be a fullstack</h3>
 
 - 🌱 I’m currently learning **Next.js.**
 
